@@ -1,0 +1,39 @@
+{
+  "index": "index.html",
+  "navigationRequestStrategy": "performance",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "resources": {
+        "files": [
+          "favicon.ico",
+          "index.html",
+          "index.csr.html",
+          "manifest.webmanifest",
+          "*.css",
+          "*.js"
+        ]
+      }
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "resources": {
+        "files": ["assets/**", "icons/**", "manifest.webmanifest"]
+      }
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "amiibros-json",
+      "urls": ["amiibros.json"],
+      "cacheConfig": {
+        "strategy": "freshness",
+        "maxSize": 1,
+        "maxAge": "7d",
+        "timeout": "2s"
+      }
+    }
+  ]
+}

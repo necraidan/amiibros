@@ -1,0 +1,36 @@
+/* Autorise les deux thèmes pour les UI natives (scrollbars, etc.) */
+:root { color-scheme: light dark; }
+
+/* Thème clair par défaut */
+:root {
+  --bg: #ffffff;
+  --text: #0b1020;
+  --muted: #374151;
+  --surface: #ffffff;      /* cartes / inputs / boutons */
+  --surface-2: #f8fafc;    /* zones secondaires */
+  --border: #e5e7eb;
+  --accent: #8b5cf6;       /* violet de ton app */
+}
+
+/* Thème sombre selon la préférence système */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b1020;
+    --text: #e5e7eb;
+    --muted: #9ca3af;
+    --surface: #111827;
+    --surface-2: #0f172a;
+    --border: #27324a;
+    --accent: #8b5cf6;
+  }
+}
+
+/* Fond/texte généraux */
+html, body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* Reset léger pour liens et focus */
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }

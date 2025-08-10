@@ -1,0 +1,58 @@
+<section class="page">
+  <h1>
+    🎮 Amiibros {{ store.filtered().length }} / {{ store.amiibos().length }}
+  </h1>
+
+  <div class="toolbar">
+    <input
+      class="control search"
+      type="search"
+      placeholder="Rechercher..."
+      aria-label="Rechercher par nom"
+      [value]="store.query()"
+      (input)="store.setQuery($any($event.target).value)"
+    />
+
+    <select
+      class="control series"
+      aria-label="Filtrer par série"
+      [value]="store.series()"
+      (change)="store.setSeries($any($event.target).value)"
+    >
+      <option value="">Toutes les séries</option>
+      @for (s of store.seriesOptions(); track s) {
+      <option [value]="s">{{ s }}</option>
+      }
+    </select>
+
+    <div class="actions refresh">
+      <button class="btn" type="button" (click)="refresh()" title="Rafraîchir">
+        ↻
+      </button>
+      <button
+        class="btn toggle"
+        type="button"
+        (click)="toggleTheme()"
+        [attr.aria-label]="theme() === 'dark' ? 'Passer en thème clair' : 'Passer en thème sombre'"
+      >
+        {{ theme() === 'dark' ? '☀️' : '🌙' }}
+      </button>
+    </div>
+  </div>
+
+  @if (store.filtered().length === 0) {
+  <p>Aucun résultat</p>
+  } @else {
+  <ul class="grid">
+    @for (a of store.filtered(); track a.name) {
+    <li class="card">
+      <img [src]="a.img" [alt]="a.name" />
+      <h2>{{ a.name }}</h2>
+      <p>{{ a.series }}</p>
+    </li>
+    }
+  </ul>
+  } @if (showToast()) {
+  <div class="toast">{{ toastMsg() }}</div>
+  }
+</section>

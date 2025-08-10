@@ -1,0 +1,483 @@
+[
+  {
+    "name": "Link (Tears of the Kingdom)",
+    "series": "The Legend of Zelda",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/2023/link-totk/link-totk-amiibo"
+  },
+  {
+    "name": "Zelda and Loftwing",
+    "series": "The Legend of Zelda",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/zelda-and-loftwing-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Banjo & Kazooie",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./banjo-and-kazooie-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Mario chat",
+    "series": "Super Mario",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Mario/cat-mario-amiibo-super-mario-series"
+  },
+  {
+    "name": "Peach chat",
+    "series": "Super Mario",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Mario/cat-peach-amiibo-super-mario-series"
+  },
+  {
+    "name": "Dark Samus",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./dark-samus-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Link",
+    "series": "The Legend of Zelda",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Link's%20Awakening/link-amiibo-the-legend-of-zelda-links-awakening-series"
+  },
+  {
+    "name": "Carapuce",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./squirtle-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Pokémon Trainer",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./pokemon-trainer-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Link enfant",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./young-link-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Detective Pikachu",
+    "series": "",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Detective%20Pikachu/detective-pikachu-amiibo"
+  },
+  {
+    "name": "Daruk",
+    "series": "The Legend of Zelda: Breath of the Wild",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Breath%20of%20the%20Wild/daruk-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Mipha",
+    "series": "The Legend of Zelda: Breath of the Wild",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Breath%20of%20the%20Wild/mipha-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Revali",
+    "series": "The Legend of Zelda: Breath of the Wild",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Breath%20of%20the%20Wild/revali-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Urbosa",
+    "series": "The Legend of Zelda: Breath of the Wild",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Breath%20of%20the%20Wild/urbosa-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Bowser (Wedding Outfit)",
+    "series": "Super Mario Odyssey",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Mario%20Odyssey/bowser-wedding-outfit-amiibo-super-mario-odyssey-series"
+  },
+  {
+    "name": "Mario (Wedding Outfit)",
+    "series": "Super Mario Odyssey",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Mario%20Odyssey/mario-wedding-outfit-amiibo-super-mario-odyssey-series"
+  },
+  {
+    "name": "Peach (Wedding Outfit)",
+    "series": "Super Mario Odyssey",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Mario%20Odyssey/peach-wedding-outfit-amiibo-super-mario-odyssey-series"
+  },
+  {
+    "name": "Link - Majora's Mask",
+    "series": "The Legend of Zelda",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/link-majoras-mask-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Link - Skyward Sword",
+    "series": "The Legend of Zelda",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/link-skyward-sword-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Link - Twilight Princess",
+    "series": "The Legend of Zelda",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/link-twilight-princess-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Bokoblin",
+    "series": "The Legend of Zelda: Breath of the Wild",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Breath%20of%20the%20Wild/bokoblin-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Guardien",
+    "series": "The Legend of Zelda: Breath of the Wild",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Breath%20of%20the%20Wild/guardian-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Link™ (Archer)",
+    "series": "The Legend of Zelda: Breath of the Wild",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Breath%20of%20the%20Wild/link-archer-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Link™ (Rider)",
+    "series": "The Legend of Zelda: Breath of the Wild",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Breath%20of%20the%20Wild/link-rider-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Link™ - Ocarina of Time",
+    "series": "30th Anniversary",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/link-ocarina-of-time-amiibo-30th-anniversary-series"
+  },
+  {
+    "name": "Toon Link - The Wind Waker",
+    "series": "30th Anniversary",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/ncom/en_US/amiibo/toon-link-the-wind-waker-amiibo-30th-anniversary-series/figure"
+  },
+  {
+    "name": "Zelda - The Wind Waker",
+    "series": "30th Anniversary",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/ncom/en_US/amiibo/toon-zelda-the-wind-waker-amiibo-30th-anniversary-series/figure"
+  },
+  {
+    "name": "Harmonie",
+    "series": "Super Mario",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Mario/rosalina-amiibo-super-mario-series"
+  },
+  {
+    "name": "Roi Dadidou",
+    "series": "Kirby",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Kirby/king-dedede-amiibo-kirby-series"
+  },
+  {
+    "name": "Waddle Dee",
+    "series": "Kirby",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Kirby/waddle-dee-amiibo-kirby-series"
+  },
+  {
+    "name": "Kirby",
+    "series": "Kirby",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Kirby/kirby-amiibo-kirby-series"
+  },
+  {
+    "name": "Link loup",
+    "series": "",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Breath%20of%20the%20Wild/wolf-link-amiibo"
+  },
+  {
+    "name": "Mega Yarn Yoshi",
+    "series": "Yoshi's Woolly World",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/ncom/en_US/amiibo/mega-yarn-yoshi-amiibo-yoshis-woolly-world-series/mega-yarn-yoshi-amiibo-yoshis-woolly-world-series-figure"
+  },
+  {
+    "name": "Mewtwo",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./mewtwo-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Tom Nook",
+    "series": "Animal Crossing",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Animal%20Crossing/tom-nook-amiibo-animal-crossing-series"
+  },
+  {
+    "name": "Ganondorf",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./ganondorf-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Dracaufeu",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./charizard-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Amphinobi",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./greninja-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Rondoudou",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./jigglypuff-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Lucario",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./lucario-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Toon Link",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./toon-link-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Zelda™",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./zelda-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Kirby™",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./kirby-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Mario™",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_300/amiibo/Super%20Smash%20Bros./mario-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Ganondorf (Tears of the Kingdom)",
+    "series": "The Legend of Zelda",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Tears%20of%20the%20Kingdom/ganondorf-tears-of-the-kingdom-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Zelda (Tears of the Kingdom)",
+    "series": "The Legend of Zelda",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Tears%20of%20the%20Kingdom/zelda-tears-of-the-kingdom-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Donkey Kong et Pauline",
+    "series": "Donkey Kong Bananza",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Donkey%20Kong%20Bananza/NS2_DonkeyKongandPauline_amiibo"
+  },
+  {
+    "name": "Babil",
+    "series": "The Legend of Zelda: Tears of the Kingdom",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_600/amiibo/The%20Legend%20of%20Zelda/Tears%20of%20the%20Kingdom/tulin-the-legend-of-zelda-tears-of-the-kingdom-series"
+  },
+  {
+    "name": "Riju",
+    "series": "The Legend of Zelda: Tears of the Kingdom",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Tears%20of%20the%20Kingdom/riju-the-legend-of-zelda-tears-of-the-kingdom"
+  },
+  {
+    "name": "Sidon",
+    "series": "The Legend of Zelda: Tears of the Kingdom",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Tears%20of%20the%20Kingdom/sidon-the-legend-of-zelda-tears-of-the-kingdom"
+  },
+  {
+    "name": "Yunobo",
+    "series": "The Legend of Zelda: Tears of the Kingdom",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Tears%20of%20the%20Kingdom/yunobo-the-legend-of-zelda-tears-of-the-kingdom"
+  },
+  {
+    "name": "Steve",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./steve-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Alex",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./alex-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Roi K. Rool",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./king-k-rool-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Toad",
+    "series": "Super Mario",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Mario/toad-amiibo-super-mario-series"
+  },
+  {
+    "name": "Diddy Kong",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./diddy-kong-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Diddy Kong",
+    "series": "Super Mario",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Mario/diddy-kong-amiibo-super-mario-series"
+  },
+  {
+    "name": "Fleur Piranha",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./piranha-plant-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Ensemble Sanrio Collaboration Animal Crossing",
+    "series": "Animal Crossing",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Animal%20Crossing/Animal%20Crossing%20Sanrio%20Collaboration%20Pack/animal-crossing-sanrio-collaboration-pack-amiibo-animal-crossing-series"
+  },
+  {
+    "name": "Méli et Mélo",
+    "series": "Animal Crossing",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Animal%20Crossing/timmy-and-tommy-amiibo-animal-crossing-series"
+  },
+  {
+    "name": "Wario",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./wario-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Zelda",
+    "series": "The Legend of Zelda: Breath of the Wild",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/Breath%20of%20the%20Wild/zelda-amiibo-the-legend-of-zelda-series"
+  },
+  {
+    "name": "Luigi",
+    "series": "Super Mario",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Mario/luigi-amiibo-super-mario-series"
+  },
+  {
+    "name": "Dr. Mario",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./dr-mario-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Link",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./link-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Épéiste Mii",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./mii-swordfighter-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Richter",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./richter-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Meta Knight",
+    "series": "Kirby",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Kirby/meta-knight-amiibo-kirby-series"
+  },
+  {
+    "name": "Roi Dadidou",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./king-dedede-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Tireuse Mii",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./mii-gunner-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Bowser",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./bowser-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Bowser Jr.",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./bowser-jr-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Olimar",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./olimar-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Yoshi de laine rose",
+    "series": "Yoshi's Woolly World",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Yoshi's%20Woolly%20World/pink-yarn-yoshi-amiibo-yoshis-woolly-world-series"
+  },
+  {
+    "name": "Sora",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./sora-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Wolf",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./wolf-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Cloud - Joueur 2",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./cloud-player-2-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Cloud",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./cloud-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Kéké",
+    "series": "Animal Crossing",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Animal%20Crossing/kk-amiibo-animal-crossing-series"
+  },
+  {
+    "name": "Min Min",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./min-min-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Risette",
+    "series": "Animal Crossing",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Animal%20Crossing/reese-amiibo-animal-crossing-series"
+  },
+  {
+    "name": "Layette",
+    "series": "Animal Crossing",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Animal%20Crossing/mabel-amiibo-animal-crossing-series"
+  },
+  {
+    "name": "Serge",
+    "series": "Animal Crossing",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Animal%20Crossing/cyrus-amiibo-animal-crossing-series"
+  },
+  {
+    "name": "Max",
+    "series": "Animal Crossing",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Animal%20Crossing/digby-amiibo-animal-crossing-series"
+  },
+  {
+    "name": "Héros",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./hero-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Pikmin",
+    "series": "Pikmin",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Pikmin/pikmin-amiibo-pikmin-series"
+  },
+  {
+    "name": "R.O.B. (Couleurs Famicom)",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./rob-famicom-colors-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Link (The Legend of Zelda)",
+    "series": "30th Anniversary",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/The%20Legend%20of%20Zelda/link-the-legend-of-zelda-amiibo-30th-anniversary-series"
+  },
+  {
+    "name": "30e anniversaire de Mario - Couleurs modernes",
+    "series": "30th Anniversary",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Mario%20Bros.%2030th%20Anniversary/30th-anniversary-mario-modern-color-amiibo-30th-anniversary-series"
+  },
+
+  {
+    "name": "30e anniversaire de Mario - Couleurs classiques",
+    "series": "30th Anniversary",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Mario%20Bros.%2030th%20Anniversary/30th-anniversary-mario-classic-color-amiibo-30th-anniversary-series"
+  },
+  {
+    "name": "Pichu",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./pichu-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Pikachu",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./pikachu-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Herbizarre",
+    "series": "Super Smash Bros.",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/Super%20Smash%20Bros./ivysaur-amiibo-super-smash-bros-series"
+  },
+  {
+    "name": "Bracelet Yoshi",
+    "series": "Nintendo World",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/2023/power-up-band/_KPH1573_R1_1920x1080"
+  },
+  {
+    "name": "Bracelet Mario",
+    "series": "Nintendo World",
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/amiibo/2023/power-up-band/_KPH1573_R1_1920x1080"
+  }
+]
